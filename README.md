@@ -21,4 +21,5 @@ line through a point near the car.  The reason for this is that it looks better 
 
 ### Results
 
-The unprocessed and resulting videos are in the repo if you are interested.  
+The unprocessed and resulting videos are in the repo if you are interested.  Here is one of the videos posted to
+[YouTube](https://youtu.be/GXL8-acBn80).
